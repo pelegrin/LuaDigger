@@ -1,0 +1,11 @@
+LuaDigger
+by pelegrin
+
+Project is inspired by original Digger game.
+Code was written for Codea on iPad.
+
+26/1/2012
+--initial release
+
+todo: bomb's explosion do not kill.
+need implement 3 more type of bugs (type's already defined).
